@@ -1,0 +1,81 @@
+title:            Researching ....
+tagline:          A short tagline
+description:      Bruno Lima personal website.
+#Comment out url when working locally to resolve base urls correctly
+url:              http://Bruno-Lima.github.io
+
+# Owner/author information
+owner:
+  name:           Bruno Lima
+  avatar:         bio_photo.jpg
+  bio:            "MSc Student in Faculty of Engineering, University of Porto (PT)<br/>Researcher at INESC TEC"
+  email:          brunomclima [at] gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:        brunolima1988
+  facebook:       bruno.m.c.lima
+  github:         
+  linkedin:       BrunoLima1988
+  instagram:      
+  lastfm:         
+  tumblr:         
+  twitter:        brunolima1988
+  skype:          
+  gtalk:          
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:   https://plus.google.com/110205598751830164922/posts 
+  # Google Scholar
+  scholar:        
+  # ACM Digital Library
+  acm:            
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Publications
+    url: /publications
+  - title: Research
+    url: /research
+  - title: Experience
+    url: /experience
+  - title: Portfolio
+    url: /portfolio
+  - title: Contact
+    url: /contact
+#  - title: Blog
+#    url: /blog
+#  - title: Theme Setup
+#    url: /theme-setup
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Lisbon
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
