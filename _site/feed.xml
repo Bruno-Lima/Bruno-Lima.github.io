@@ -3,26 +3,26 @@
 <title type="text">Researching ....</title>
 <subtitle type="text">A short tagline</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2013-10-25T18:39:23+01:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://Bruno-Lima.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://Bruno-Lima.github.io" />
+<updated>2013-10-28T15:34:11+00:00</updated>
+<id>http://Bruno-Lima.github.io/</id>
 <author>
   <name>Bruno Lima</name>
-  <uri>/</uri>
+  <uri>http://Bruno-Lima.github.io/</uri>
   <email>brunomclima [at] gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[A Testing and Certification Methodology for an Ambient-Assisted Living Ecosystem]]></title>
-  <link rel="alternate" type="text/html" href="/publications/Healthcom2013" />
-  <id>/publications/Healthcom2013</id>
+  <link rel="alternate" type="text/html" href="http://Bruno-Lima.github.io/publications/Healthcom2013" />
+  <id>http://Bruno-Lima.github.io/publications/Healthcom2013</id>
   <published>2013-10-09T00:00:00+01:00</published>
   <updated>2013-10-09T00:00:00+01:00</updated>
   <author>
     <name>Bruno Lima</name>
-    <uri></uri>
+    <uri>http://Bruno-Lima.github.io</uri>
     <email>brunomclima [at] gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;../HealthCom2013.pdf&quot;&gt;&lt;i class=&quot;icon-pdf&quot;&gt;&lt;/i&gt; (download)&lt;/a&gt;&lt;/p&gt;
@@ -36,7 +36,7 @@
 &lt;p&gt;To cope with the needs raised by the demographic changes in our society, several Ambient-Assisted Living (AAL) technologies have emerged in recent years, but those ‘first offers’ are often monolithic, incompatible and thus expensive and poten- tially not sustainable. The AAL4ALL project aims at improving that situation through the development of an open ecosystem of interoperable products and services for AAL, tied together via an integration infrastructure. To that end, the project encompasses the specification of a set of reference models and requirements for interoperable products and services, against which candidate products and services can be tested and certified, and subse- quently integrated as components of the ecosystem. This paper proposes a testing and certification methodology for such an ecosystem.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/publications/Healthcom2013&quot;&gt;A Testing and Certification Methodology for an Ambient-Assisted Living Ecosystem&lt;/a&gt; was originally published by Bruno Lima at &lt;a href=&quot;&quot;&gt;Researching ....&lt;/a&gt; on October 09, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://Bruno-Lima.github.io/publications/Healthcom2013&quot;&gt;A Testing and Certification Methodology for an Ambient-Assisted Living Ecosystem&lt;/a&gt; was originally published by Bruno Lima at &lt;a href=&quot;http://Bruno-Lima.github.io&quot;&gt;Researching ....&lt;/a&gt; on October 09, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
