@@ -20,6 +20,8 @@ AAL4ALL presents an idea for an answer through the development of an ecosystem o
 More information about AAL4ALL -- [AAL4ALL website](http://www.aal4all.org/)
 
 
+### Master Thesis
+
 #### Abstract
 
 (soon)
