@@ -16,5 +16,18 @@ New challenges will be raised to the traditional systems of health care, not onl
 AAL4ALL presents an idea for an answer through the development of an ecosystem of products and services for Ambient Assisted Living (AAL) associated to a business model and validated through large scale trial.<br/>
 <br/>
 
+Abstract
+
+
+
+## Documents:
+
+<a href="../Thesis/resume_p.pdf"><i class="icon-pdf"></i> - Resume (in portuguese) </a>
+<a href="../Thesis/resume_e.pdf"><i class="icon-pdf"></i> - Resume (in english) </a>
+
+<a href="../Thesis/thesis.pdf"><i class="icon-pdf"></i>  - Master Thesis (in portuguese) </a>
+
+
+
 More information -- [AAL4ALL website](http://www.aal4all.org/)
 
