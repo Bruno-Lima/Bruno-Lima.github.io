@@ -8,6 +8,7 @@ image:
 
 
 
+
 ### AAL4ALL
 
 Developed societies are currently facing severe demographic changes: the world is getting older at an unprecedented rate. In 2000, about 420 million people, or approximately 7 percent of the world’s population, were aged 65 or older.<br/>
@@ -16,14 +17,18 @@ New challenges will be raised to the traditional systems of health care, not onl
 AAL4ALL presents an idea for an answer through the development of an ecosystem of products and services for Ambient Assisted Living (AAL) associated to a business model and validated through large scale trial.<br/>
 <br/>
 
-More information -- [AAL4ALL website](http://www.aal4all.org/)
+More information about AAL4ALL -- [AAL4ALL website](http://www.aal4all.org/)
 
 
 #### Abstract
 
+(soon)
 
+#### Abstract (in Portuguese)
 
-### Documents
+(soon)
+
+####  Documents
 <a href="../thesis/thesis.pdf"><i class="icon-pdf"></i> - Master Thesis (in portuguese) </a> <br/>
 <a href="../thesis/resume_p.pdf"><i class="icon-pdf"></i> - Resume (in portuguese) </a> <br/>
 <a href="../thesis/resume_e.pdf"><i class="icon-pdf"></i> - Resume (in english) </a> <br/>
