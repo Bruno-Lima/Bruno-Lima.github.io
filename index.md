@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "José Campos, Research, University of Porto, Portugal"
+description: "Bruno Lima, Research, University of Porto, Portugal"
 tags: [research, software engineering, software testing, software certification, Ambient Assisted Living]
 image:
   feature: black_bar.jpg
