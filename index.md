@@ -9,7 +9,7 @@ image:
 Bruno Lima was born in [Póvoa de Varzim](http://en.wikipedia.org/wiki/P%C3%B3voa_de_Varzim) (Portugal) at 5 November of 1988. 
 <br/><br/>
 
-Currently in the 5th year of the Integrated Master in Informatics and Computation Engineering (MIEIC) at FEUP. Researcher at INESC Porto where is conducting your master's thesis about Testing and Certification Methodology for an Ambient-Assisted Living Ecosystem (For more information visit the wiki of thesis [here](http://paginas.fe.up.pt/~ei08068/dokuwiki/doku.php?id=wiki:welcome)).
+Currently in the 5th year of the Integrated Master in Informatics and Computation Engineering (MIEIC) at FEUP. Researcher at INESC Porto where is conducting your master's thesis about Testing and Certification Methodology for an Ambient-Assisted Living Ecosystem.
 
 
 
