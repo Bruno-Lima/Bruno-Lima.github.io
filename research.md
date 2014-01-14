@@ -22,10 +22,10 @@ Abstract
 
 ## Documents:
 
-<a href="../Thesis/resume_p.pdf"><i class="icon-pdf"></i> - Resume (in portuguese) </a>
-<a href="../Thesis/resume_e.pdf"><i class="icon-pdf"></i> - Resume (in english) </a>
+<a href="../thesis/resume_p.pdf"><i class="icon-pdf"></i> - Resume (in portuguese) </a>
+<a href="../thesis/resume_e.pdf"><i class="icon-pdf"></i> - Resume (in english) </a>
 
-<a href="../Thesis/thesis.pdf"><i class="icon-pdf"></i>  - Master Thesis (in portuguese) </a>
+<a href="../thesis/thesis.pdf"><i class="icon-pdf"></i>  - Master Thesis (in portuguese) </a>
 
 
 
