@@ -13,7 +13,7 @@ image:
 
 ### Resumo
 
-(soon)
+(brevemente)
 
 ###  Documents
 <a href="../thesis/MIEIC_BRUNO_LIMA.pdf"><i class="icon-pdf"></i> - Relatório de Dissertação </a> <br/>
