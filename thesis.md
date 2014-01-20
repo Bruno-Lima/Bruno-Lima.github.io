@@ -16,7 +16,7 @@ image:
 (soon)
 
 ###  Documents
-<a href="../thesis/thesis.pdf"><i class="icon-pdf"></i> - Master's Thesis (in portuguese) </a> <br/>
+<a href="../thesis/MIEIC_BRUNO_LIMA.pdf"><i class="icon-pdf"></i> - Master's Thesis (in portuguese) </a> <br/>
 <a href="../thesis/resume_p.pdf"><i class="icon-pdf"></i> - Abstract (in portuguese) </a> <br/>
 <a href="../thesis/resume_e.pdf"><i class="icon-pdf"></i> - Abstract (in english) </a> <br/>
 
