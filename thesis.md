@@ -19,6 +19,7 @@ Due to the aging of the world population it is urgent that traditional health sy
 <p>Inserted in the AAL4ALL project arises this dissertation project, which aimed to define a methodology for testing and certification components of AAL. The proposed methodology is based on a process composed of three different phases: analysis of prerequisites, conformance testing and interoperability testing. The prerequisites are intended to ensure that the candidates components have evidences that are necessary to enter the ecosystem. The conformance test, aim to ensure that the candidate component communicates according to what is specified in the rules. Interoperability tests aim to demonstrate that the candidate component behaves as expected when integrated with other components. 
 The proposed methodology was validated in a pilot scenario, composed of components of AAL4ALL project, for which test cases were defined. Was also set up an automatic testing platform, which allowed not only automate some of these tests but also optimize the testing and certification process.
 
+
 ### Resumo
 
 <p>
