@@ -18,7 +18,10 @@ image:
 
 ### Resumo
 
-(brevemente)
+Devido ao envelhecimento da população mundial é urgente que os sistemas tradicionais de saúde encontrem soluções que permitam aumentar o tempo de vida das pessoas no seu ambiente preferido, aumentando a sua autonomia, autoconfiança e mobilidade. É precisamente neste contexto que se insere o projeto AAL4AAL que, através do desenvolvimento de um ecossistema de produtos e serviços normalizados e interoperáveis de Ambient Assisted Living (AAL), pretende ser uma resposta para este problema. 
+Inserido no projeto AAL4ALL surge o presente projeto de dissertação, que teve como objetivo definir uma metodologia de teste e certificação para componentes de AAL. A metodologia proposta é assente num processo composto por três diferentes fases: anáise de pré-requisitos, testes de conformidade e testes de interoperabilidade. Os pré-requistos visam garantir que os componentes candidatos possuem evidências que são à partida necessárias para entrarem no ecossistema. Os testes de conformidade têm como objetivo garantir que o componente candidato comunica de acordo com aquilo que está especificado nas normas. Os testes de interoperabilidade visam comprovar que o componente candidato se comporta como é esperado quando integrado com outros componentes. 
+A metodologia proposta foi ainda alvo de uma validação através de um cenário piloto tão real quanto possível, composto por componentes do projeto AAL4ALL, para o qual foram definidos casos de testes e desenvolvida uma plataforma automática de teste, que permitiu não só automatizar alguns desses testes mas também optimizar o processo de teste e certificação. 
+
 
 
 
