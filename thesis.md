@@ -21,6 +21,7 @@ The proposed methodology was validated in a pilot scenario, composed of componen
 
 
 ### Resumo
+### Resumo
 
 <p>
 Devido ao envelhecimento da população mundial é urgente que os sistemas tradicionais de saúde encontrem soluções que permitam aumentar o tempo de vida das pessoas no seu ambiente preferido, aumentando a sua autonomia, autoconfiança e mobilidade. É precisamente neste contexto que se insere o projeto AAL4AAL que, através do desenvolvimento de um ecossistema de produtos e serviços normalizados e interoperáveis de Ambient Assisted Living (AAL), pretende ser uma resposta para este problema. 
