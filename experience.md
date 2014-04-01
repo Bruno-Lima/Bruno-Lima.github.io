@@ -23,6 +23,9 @@ image:
 
 ### Professional Experience
 
+* March 2014 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Research in  [AAL4ALL](http://www.aal4all.org) project - Definition of a testing and certification methodology for the AAL4ALL products and services. 
+
 * September 2013 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Research in  [AAL4ALL](http://www.aal4all.org) project - Definition of a testing and certification methodology for the AAL4ALL products and services. 
 
