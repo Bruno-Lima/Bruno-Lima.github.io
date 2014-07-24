@@ -2,7 +2,7 @@ title:            Researching ....
 tagline:          A short tagline
 description:      Bruno Lima personal website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://Bruno-Lima.github.io
+#url:              http://Bruno-Lima.github.io
 
 # Owner/author information
 owner:
