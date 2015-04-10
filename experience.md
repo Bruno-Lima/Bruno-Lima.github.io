@@ -62,13 +62,13 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* IEEE International Conference on e-Health Networking, Application & Services [IEEE Healthcom 2013](http://www.ieee-healthcom.org/2013/)
+* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/)
 
 <br/>
 
 ### Summer schools
 
-* 10th International Summer School on Training And Research On Testing [TAROT 2014](http://tarot2014.fe.up.pt/)
+* 10th International Summer School on Training And Research On Testing [(TAROT 2014)](http://tarot2014.fe.up.pt/)
 
 
 
