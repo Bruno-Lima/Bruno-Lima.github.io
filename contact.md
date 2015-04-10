@@ -16,14 +16,14 @@ Office: I122<br/>
 <i class="icon-phone" /> Office Ext: 1316<br/>
 <br/>
 <br/>
-<a href="mailto:brunomclima@gmail.com"><i class="icon-mail"></i> brunomclima [at] gmail.com</a><br/>
+<a href="mailto:bruno.lima@fe.up.pt"><i class="icon-mail"></i> bruno.lima [at] fe.up.pt</a><br/>
 <br/>
 <i class="icon-phone" /> (+351) 912 328 948<br/>
 
 ### PGP Public key
 
 {% highlight tex %}
-uid: brunomclima [at] gmail.com
+uid: bruno.lima [at] fe.up.pt
 
 
 
