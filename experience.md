@@ -51,15 +51,6 @@ Average grade: 19 out of 20
 
 <br/>
 
-### Complementary Formations
-
-* Course of first aid and ambulance crew
-* Defensive Driving Course
-* Workshop on Hardware, Networking and Linux
-* Internship "OTL Think Industry Innovation"
-
-<br/>
-
 ### Conferences
 
 * IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/)
@@ -69,6 +60,15 @@ Average grade: 19 out of 20
 ### Summer schools
 
 * 10th International Summer School on Training And Research On Testing [(TAROT 2014)](http://tarot2014.fe.up.pt/)
+
+<br/>
+
+### Complementary Formations
+
+* Course of first aid and ambulance crew
+* Defensive Driving Course
+* Workshop on Hardware, Networking and Linux
+* Internship "OTL Think Industry Innovation"
 
 
 
