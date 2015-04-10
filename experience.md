@@ -40,7 +40,7 @@ image:
 
 ### Education
 
-* Faculty of Engineering of the University of Porto (FEUP), Sep 2008 - Mar 2014 <br/>
+* Faculty of Engineering of the University of Porto (FEUP), Sep 2008 - Feb 2014 <br/>
 [Master in Informatics and Computing Engineering](http://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2013&pv_origem=CUR&pv_tipo_cur_sigla=MI&pv_curso_id=742) <br/>
 Average grade: 15 out of 20
 
@@ -62,7 +62,13 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* IEEE International Conference on e-Health Networking, Application & Services (IEEE Healthcom 2013)
+* IEEE International Conference on e-Health Networking, Application & Services [IEEE Healthcom 2013](http://www.ieee-healthcom.org/2013/)
+
+<br/>
+
+### Summer schools
+
+* 10th International Summer School on Training And Research On Testing [TAROT 2014](http://tarot2014.fe.up.pt/)
 
 
 
