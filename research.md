@@ -7,6 +7,13 @@ image:
 ---
 
 
+### SIBILA
+
+The SIBILA project aims at developing a set of tools that will effectively support the decision making process in organizations, and facilitate the process of building data-driven solutions.<br/> 
+These tools will be able to process and represent complex sources of data, such as multi-relational and/or web data, and to, given a user-defined task, semi-automatically select the best components at hand and compose them together. To do so, SIBILA will require progress at the level of knowledge representation and data mining techniques.<br/> 
+Moreover, the complexity of SIBILA will require contributions in software engineering and language development. Next, we discuss in more detail the main challenges facing SIBILA: knowledge representation and inference, web data, learning technology, and system engineering.<br/><br/>
+
+
 
 
 ### AAL4ALL

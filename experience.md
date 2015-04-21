@@ -23,10 +23,10 @@ image:
 
 ### Professional Experience
 
-* March 2014 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Research in  [AAL4ALL](http://www.aal4all.org) project - Definition of a testing and certification methodology for the AAL4ALL products and services. 
+* March 2015 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Research in SIBILA project - Scenario based testing. 
 
-* September 2013 - ... <br/>
+* September 2013 - February 2015 <br/>
 [INESC TEC](http://www.inescporto.pt/) Research in  [AAL4ALL](http://www.aal4all.org) project - Definition of a testing and certification methodology for the AAL4ALL products and services. 
 
 * July 2012 - September 2012 <br/>
