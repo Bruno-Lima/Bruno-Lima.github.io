@@ -55,7 +55,7 @@ Average grade: 19 out of 20
 
 * IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/)
 
-* 10th International Joint conference on Software Technologies[(ICSOFT 2015)](http://www.icsoft.org/Home.aspx?y=2015/)
+* 10th International Joint conference on Software Technologies [(ICSOFT 2015)](http://www.icsoft.org/Home.aspx?y=2015/)
 
 <br/>
 
