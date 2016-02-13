@@ -47,8 +47,8 @@ links:
     url: /thesis
   - title: Experience
     url: /experience
-  - title: Portfolio
-    url: /portfolio
+#  - title: Portfolio
+#    url: /portfolio
   - title: Contact
     url: /contact
 #  - title: Blog
