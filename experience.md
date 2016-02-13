@@ -24,7 +24,7 @@ image:
 ### Professional Experience
 
 * February 2016 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - CMicroprocessors and Personal Computers. 
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - Microprocessors and Personal Computers. 
 
 * August 2015 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
