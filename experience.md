@@ -50,7 +50,7 @@ image:
 ### Education
 
 * Faculty of Engineering of the University of Porto (FEUP), Jan 2015 - ... <br/>
-[Doctoral Program in Informatics Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.
+[Doctoral Program in Informatics Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=679&pv_ano_lectivo=2015&pv_origem=CUR) 
 
 * Faculty of Engineering of the University of Porto (FEUP), Sep 2008 - Feb 2014 <br/>
 [Master in Informatics and Computing Engineering](http://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2013&pv_origem=CUR&pv_tipo_cur_sigla=MI&pv_curso_id=742) <br/>
