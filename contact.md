@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact/index.html
 title: Contact
+tagline: Contact
 image:
   feature: black_bar.jpg
 ---

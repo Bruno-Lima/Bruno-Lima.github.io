@@ -2,6 +2,7 @@
 layout: page
 permalink: /experience/index.html
 title: Experience
+tagline: Experience
 image:
   feature: black_bar.jpg
 ---
