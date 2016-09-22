@@ -23,14 +23,17 @@ image:
 
 ### Professional Experience
 
-* February 2016 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - Microprocessors and Personal Computers. 
+* September 2016 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384925). 
 
 * August 2015 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
 
+* February 2016 - August 2016 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368695). 
+
 * September 2015 - February 2016 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - Computer Architecture and Organization. 
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691). 
 
 * March 2015 - July 2015 <br/>
 [FEUP](http://www.fe.up.pt/) Researcher Assistant in SIBILA project - Scenario based testing. 
