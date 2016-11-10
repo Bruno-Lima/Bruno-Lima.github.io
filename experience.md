@@ -69,7 +69,7 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* 4rt User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
+* 4th User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
 
 * 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
 
