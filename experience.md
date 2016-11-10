@@ -73,6 +73,8 @@ Average grade: 19 out of 20
 
 * 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
 
+* 11th International Joint conference on Software Technologies [(ICSOFT 2016)](http://www.icsoft.org/?y=2016)
+
 * IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/)
 
 * TESTING Portugal 2015 [(link)](http://www.cvent.com/events/testing-portugal-2015/event-summary-a1a41d7f08674008b58e43454bb9f54a.aspx)
