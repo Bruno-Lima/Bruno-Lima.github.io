@@ -69,6 +69,10 @@ Average grade: 19 out of 20
 
 ### Conferences
 
+* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
+
+* 4rt User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
+
 * IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/)
 
 * TESTING Portugal 2015 [(link)](http://www.cvent.com/events/testing-portugal-2015/event-summary-a1a41d7f08674008b58e43454bb9f54a.aspx)
@@ -82,6 +86,8 @@ Average grade: 19 out of 20
 <br/>
 
 ### Summer schools
+
+* 12th International Summer School on Training And Research On Testing [(TAROT 2016)](https://tarot2016.wp.telecom-sudparis.eu/)
 
 * 10th International Summer School on Training And Research On Testing [(TAROT 2014)](http://tarot2014.fe.up.pt/)
 
