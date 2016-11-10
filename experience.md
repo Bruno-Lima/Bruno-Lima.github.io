@@ -69,9 +69,9 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
-
 * 4rt User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
+
+* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
 
 * IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/)
 
