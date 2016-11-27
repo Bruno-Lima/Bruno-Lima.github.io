@@ -17,7 +17,7 @@ image:
 </div> 
 </section><!-- /#table-of-contents -->
 
+I have had / am having the privilege of co-supervising the following students:
 
-* September 2016 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384925). 
+* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2015. 
 
