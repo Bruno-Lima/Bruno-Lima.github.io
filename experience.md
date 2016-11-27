@@ -69,6 +69,10 @@ Average grade: 19 out of 20
 
 ### Conferences
 
+* TESTING Portugal 2016 [(link)](http://www.pstqb.pt/testing-portugal-2016)
+
+* ACM SIGSOFT International Symposium on the Foundations of Software Engineering [(FSE 2016)](http://www.cs.ucdavis.edu/fse2016/)
+
 * 4th User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
 
 * 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
