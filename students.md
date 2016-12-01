@@ -19,5 +19,5 @@ image:
 
 I have had / am having the privilege of co-supervising the following students:
 
-* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2015. 
+* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2016. 
 
