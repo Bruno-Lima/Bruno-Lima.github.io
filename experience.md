@@ -73,23 +73,23 @@ Average grade: 19 out of 20
 
 * TESTING Portugal 2016 [(link)](http://www.pstqb.pt/testing-portugal-2016)
 
-* ACM SIGSOFT International Symposium on the Foundations of Software Engineering [(FSE 2016)](http://www.cs.ucdavis.edu/fse2016/)
+* ACM SIGSOFT International Symposium on the Foundations of Software Engineering [(FSE 2016)](http://www.cs.ucdavis.edu/fse2016/) [Author]
 
 * 4th User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
 
-* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/)
+* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/) [Author]
 
-* 11th International Joint conference on Software Technologies [(ICSOFT 2016)](http://www.icsoft.org/?y=2016)
+* 11th International Joint conference on Software Technologies [(ICSOFT 2016)](http://www.icsoft.org/?y=2016) [Author]
 
-* IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/)
+* IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/) [Author]
 
 * TESTING Portugal 2015 [(link)](http://www.cvent.com/events/testing-portugal-2015/event-summary-a1a41d7f08674008b58e43454bb9f54a.aspx)
 
 * 3rt User Conference on Advanced Automated Testing [(UCAAT 2015)](http://ucaat.etsi.org/2015/index.html)
 
-* 10th International Joint conference on Software Technologies [(ICSOFT 2015)](http://www.icsoft.org/Home.aspx?y=2015/)
+* 10th International Joint conference on Software Technologies [(ICSOFT 2015)](http://www.icsoft.org/Home.aspx?y=2015/) [Author]
 
-* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/)
+* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/) [Author]
 
 <br/>
 
