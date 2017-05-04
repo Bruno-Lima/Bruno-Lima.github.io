@@ -69,7 +69,7 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) 
+* IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) [Student Volunteer / Session Chair / Author]
 
 * TESTING Portugal 2016 [(link)](http://www.pstqb.pt/testing-portugal-2016)
 
