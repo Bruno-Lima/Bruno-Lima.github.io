@@ -24,11 +24,17 @@ image:
 
 ### Professional Experience
 
-* September 2016 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384925). 
+* September 2017 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399880). 
 
 * August 2015 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
+
+* February 2017 - August 2017 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384929). 
+
+* September 2016 - February 2017 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384925). 
 
 * February 2016 - August 2016 <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368695). 
