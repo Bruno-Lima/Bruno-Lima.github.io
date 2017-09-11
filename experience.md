@@ -69,6 +69,8 @@ Average grade: 19 out of 20
 
 ### Conferences
 
+* 12th International Joint conference on Software Technologies [(ICSOFT 2017)](http://www.icsoft.org/?y=2017) [Author]
+
 * IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) [Student Volunteer / Session Chair / Author]
 
 * TESTING Portugal 2016 [(link)](http://www.pstqb.pt/testing-portugal-2016)
@@ -94,6 +96,10 @@ Average grade: 19 out of 20
 <br/>
 
 ### Summer schools
+
+* CPS Summer School [(CPS SS 2017)](http://projects.au.dk/into-cps/dissemination/summerschool/)
+
+* 12th International Summer School on Training And Research On Testing [(TAROT 2017)](http://tarot2017.dieti.unina.it/)
 
 * 12th International Summer School on Training And Research On Testing [(TAROT 2016)](https://tarot2016.wp.telecom-sudparis.eu/)
 
