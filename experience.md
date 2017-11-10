@@ -75,6 +75,10 @@ Average grade: 19 out of 20
 
 ### Conferences
 
+* Web Summit 2017 [(Web Summit 2017)](https://websummit.com/) [Student Volunteer - Team Leader]
+
+* 5th User Conference on Advanced Automated Testing [(UCAAT 2017)](https://ucaat.etsi.org/)
+
 * 12th International Joint conference on Software Technologies [(ICSOFT 2017)](http://www.icsoft.org/?y=2017) [Author]
 
 * IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) [Student Volunteer / Session Chair / Author]
