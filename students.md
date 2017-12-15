@@ -19,8 +19,8 @@ image:
 
 I have had / am having the privilege of co-supervising the following students:
 
-* João Soares (MSc) --  Conversion of Models to Distributed Systems Testing (in progress)
-* José Cardoso (MSc) --  Automatic evaluation of programs in e-learning platforms (in progress) 
-* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2016. 
+* João Soares (MSc) --  Automatic Model Transformation from UML Sequence Diagrams to Coloured Petri Nets, July 2017 
+* José Cardoso (MSc) --  Automatic Assesment of Programming Assignments for E-learning, July 2017 
+* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2016 
 
 
