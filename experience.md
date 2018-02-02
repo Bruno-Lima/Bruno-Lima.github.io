@@ -24,11 +24,15 @@ image:
 
 ### Professional Experience
 
-* September 2017 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399880). 
+* February 2018 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399884). 
 
 * August 2015 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
+
+* September 2017 - February 2018 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399880). 
+
 
 * February 2017 - August 2017 <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384929). 
@@ -74,6 +78,14 @@ Average grade: 19 out of 20
 <br/>
 
 ### Conferences
+
+* 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
+
+* First International Workshop on Verification and Validation of Internet of Things [(VVIoT 2018)](https://web.fe.up.pt/~vviot2018/) [PC Member / Webmaster]
+
+#####Previous Events
+
+* 6th International Conference on Model-Driven Engineering and Software Development [(MODELSWARD 2018)](http://www.modelsward.org/?y=2018) [Author]
 
 * Web Summit 2017 [(Web Summit 2017)](https://websummit.com/) [Student Volunteer - Team Leader]
 
