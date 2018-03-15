@@ -13,9 +13,7 @@ Future human sensing systems will be multi-layered networks of sensor and actuat
 
 Furthermore, this envisioned paradigm will turn our society more prepared for aging population demographics that is already a certainty for the coming 50 years. Nevertheless, there are two main challenges to be approached for this envisioned paradigm become reality:
 1) Evolve from today's macro to tomorrow's micro and nano human sensing technologies that will be key players in the coming revolution that will occur in the health and wellbeing industry.
-2) Tackle the tons of information all these wearable and implanted sensors will generate, integrating it with data from other sources, such as medical records, genetic data and even social media and use it to draw a broad picture of the patient as an individual, in order to offer a tailored healthcare therapy - what we call the future health BIG data problem.
-
-This project is structured in the following research lines:
+2) Tackle the tons of information all these wearable and implanted sensors will generate, integrating it with data from other sources, such as medical records, genetic data and even social media and use it to draw a broad picture of the patient as an individual, in order to offer a tailored healthcare therapy - what we call the future health BIG data problem. This project is structured in the following research lines:
 - RL1: Macro-to-Nano Human Sensing Technologies
 - RL2: Health data collection and visualization
 - RL3: Health data infrastructure
