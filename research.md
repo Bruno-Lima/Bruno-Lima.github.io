@@ -7,6 +7,23 @@ image:
 ---
 
 
+### NanoSTIMA – Macro-to-Nano Human Sensing: Towards Integrated Multimodal Health Monitoring and Analytics
+
+Future human sensing systems will be multi-layered networks of sensor and actuator devices, ranging from the macro to the nano level. Ecosystems of interoperable tiny devices at these different layers will exchange data and commands seamlessly to make us more aware of our health, act earlier to potential disease signs ans surely drive our society for a lower cost of healthcare.
+
+Furthermore, this envisioned paradigm will turn our society more prepared for aging population demographics that is already a certainty for the coming 50 years. Nevertheless, there are two main challenges to be approached for this envisioned paradigm become reality:
+1) Evolve from today's macro to tomorrow's micro and nano human sensing technologies that will be key players in the coming revolution that will occur in the health and wellbeing industry.
+2) Tackle the tons of information all these wearable and implanted sensors will generate, integrating it with data from other sources, such as medical records, genetic data and even social media and use it to draw a broad picture of the patient as an individual, in order to offer a tailored healthcare therapy - what we call the future health BIG data problem.
+
+This project is structured in the following research lines:
+- RL1: Macro-to-Nano Human Sensing Technologies
+- RL2: Health data collection and visualization
+- RL3: Health data infrastructure
+- RL4: Health data analysis & decision
+- RL5: Advanced Methodologies for Computer-Aided Detection and Diagnosis
+
+
+
 ### SIBILA
 
 The SIBILA project aims at developing a set of tools that will effectively support the decision making process in organizations, and facilitate the process of building data-driven solutions.<br/> 
