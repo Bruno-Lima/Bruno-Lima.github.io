@@ -127,7 +127,7 @@ Average grade: 19 out of 20
 
 * CPS Summer School [(CPS SS 2017)](http://projects.au.dk/into-cps/dissemination/summerschool/)
 
-* 12th International Summer School on Training And Research On Testing [(TAROT 2017)](http://tarot2017.dieti.unina.it/)
+* 13th International Summer School on Training And Research On Testing [(TAROT 2017)](http://tarot2017.dieti.unina.it/)
 
 * 12th International Summer School on Training And Research On Testing [(TAROT 2016)](https://tarot2016.wp.telecom-sudparis.eu/)
 
