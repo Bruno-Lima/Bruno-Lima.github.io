@@ -79,6 +79,10 @@ Average grade: 19 out of 20
 
 ### Conferences
 
+* The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
+
+* The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
+
 * 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
 
 * First International Workshop on Verification and Validation of Internet of Things [(VVIoT 2018)](https://web.fe.up.pt/~vviot2018/) [PC Member / Webmaster]
