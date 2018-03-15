@@ -19,6 +19,7 @@ image:
 
 I have had / am having the privilege of co-supervising the following students:
 
+* Pedro Pontes (MSc) --  Software Engineering for Healthcare IoT Ecosystems (on going) 
 * João Soares (MSc) --  Automatic Model Transformation from UML Sequence Diagrams to Coloured Petri Nets, July 2017 
 * José Cardoso (MSc) --  Automatic Assesment of Programming Assignments for E-learning, July 2017 
 * Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2016 
