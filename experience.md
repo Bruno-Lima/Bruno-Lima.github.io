@@ -79,15 +79,24 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* 40th International Conference on Software Engineering [(ICSE 2018)](https://www.icse2018.org/) [Student Volunteer]
 
-* The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
+* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2018)](http://healthcom2018.ieee-healthcom.org/) [Author]
 
 * The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
 
-* 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
+* The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
+
+* The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE 2018)](https://2018.fseconference.org/home) [Author]
+
+* 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
+
+
 
 ##### Previous Events
+
+* 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
+
+* 40th International Conference on Software Engineering [(ICSE 2018)](https://www.icse2018.org/) [Student Volunteer]
 
 * First International Workshop on Verification and Validation of Internet of Things [(VVIoT 2018)](https://web.fe.up.pt/~vviot2018/) [PC Member / Webmaster]
 
