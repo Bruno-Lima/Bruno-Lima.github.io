@@ -80,7 +80,7 @@ Average grade: 19 out of 20
 ### Conferences
 
 
-* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2018)](http://healthcom2018.ieee-healthcom.org/) [Author]
+
 
 * The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
 
@@ -90,9 +90,13 @@ Average grade: 19 out of 20
 
 * 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
+* 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
+
 
 
 ##### Previous Events
+
+* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2018)](http://healthcom2018.ieee-healthcom.org/) [Author]
 
 * 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
 
