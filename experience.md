@@ -81,20 +81,25 @@ Average grade: 19 out of 20
 
 
 
-
-* The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
-
-* The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
-
-* The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE 2018)](https://2018.fseconference.org/home) [Author]
-
 * 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
 * 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
 
+* The Eleventh International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2019)](ttp://www.iaria.org/conferences2019/VALID19.html) [PC Member]
 
+* The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
 
 ##### Previous Events
+
+* The second annual Facebook TAV Symposium [(Facebook TAV 2018)](https://research.fb.com/testing-and-verification-symposium-2018/)
+
+* The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE 2018)](https://2018.fseconference.org/home) [Author / Student Volunteer]
+
+* The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
+
+* The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
+
+* 6th User Conference on Advanced Automated Testing [(UCAAT 2018)](https://ucaat.etsi.org/)
 
 * IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2018)](http://healthcom2018.ieee-healthcom.org/) [Author]
 
