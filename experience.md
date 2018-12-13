@@ -79,13 +79,13 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-
+* The Fifth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2019)](https://www.iaria.org/conferences2019/ComSOFTENG19.html) [PC Member]
 
 * 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
 * 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
 
-* The Eleventh International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2019)](ttp://www.iaria.org/conferences2019/VALID19.html) [PC Member]
+* The Eleventh International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2019)](http://www.iaria.org/conferences2019/VALID19.html) [PC Member]
 
 * The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
 
