@@ -7,7 +7,7 @@ image:
   feature: black_bar.jpg
 ---
 
-<section id="table-of-contents" class="toc">
+<!--<section id="table-of-contents" class="toc">
   <header>
     <h3>Contents</h3>
   </header>
