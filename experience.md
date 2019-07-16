@@ -79,10 +79,6 @@ Average grade: 19 out of 20
 
 ### Conferences
 
-* The 46th ACM SIGPLAN Symposium on Principles of Programming Languages [(POPL 2019)](https://popl19.sigplan.org/) [Student Volunteer]
-
-* The Fifth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2019)](https://www.iaria.org/conferences2019/ComSOFTENG19.html) [PC Member]
-
 * 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
 * 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
@@ -91,7 +87,17 @@ Average grade: 19 out of 20
 
 * The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
 
+* The Sixth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2020)](https://www.iaria.org/conferences2020/SOFTENG20.html) [PC Member]
+
+* IEEE 13th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2020)](https://www.icst2020.info/home/icst-2020) [Local Organization Chair]
+
 ##### Previous Events
+
+* IEEE 12th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2019)](http://icst2019.xjtu.edu.cn/) [Author]
+
+* The Fifth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2019)](https://www.iaria.org/conferences2019/ComSOFTENG19.html) [PC Member]
+
+* The 46th ACM SIGPLAN Symposium on Principles of Programming Languages [(POPL 2019)](https://popl19.sigplan.org/) [Student Volunteer]
 
 * The second annual Facebook TAV Symposium [(Facebook TAV 2018)](https://research.fb.com/testing-and-verification-symposium-2018/)
 
