@@ -6,6 +6,8 @@ image:
   feature: black_bar.jpg
 ---
 
+
+
 ### What is DCO Analyzer?
 
 DCO Analyzer is a Controllability and Observability Analysis Tool for Distributed Systems Testing
@@ -22,4 +24,7 @@ Unzip the file and run the "DCO Analyzer.jar"
 
 You can find some sequence diagram models ready to analyze <a href="../DCOAnalyzer/UML_SD_Examples.zip"><i class="icon-zip"></i>here</a>.
 
+### Video
+
+[![Watch the video](https://img.youtube.com/vi/v7ycNzAlO_8/maxresdefault.jpg)](https://youtu.be/v7ycNzAlO_8)
 
