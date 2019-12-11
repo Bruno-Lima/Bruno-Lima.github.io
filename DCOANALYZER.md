@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tools/index.html
+permalink: /DCOANALYZER/index.html
 title: DCO Analyzer
 image:
   feature: black_bar.jpg
@@ -8,7 +8,7 @@ image:
 
 ### What is DCO Analyzer?
 
-Due to the aging of the world population it is urgent that traditional health systems find solutions to increase the people lifetime in their preferred environment by increasing their autonomy, self-confidence and mobility. It is precisely in this context that fits the AAL4AAL project that, through the development of an ecosystem of products and standardized and interoperable services of Ambient Assisted Living (AAL), aims to be an answer to this problem.
+DCO Analyzer is a Controllability and Observability Analysis Tool for Distributed Systems Testing
 
 <br/><br/>
 Inserted in the AAL4ALL project arises this dissertation project, which aimed to define a methodology for testing and certification components of AAL. The proposed methodology is based on a process composed of three different phases: analysis of prerequisites, conformance testing and interoperability testing. The prerequisites are intended to ensure that the candidates components have evidences that are necessary to enter the ecosystem. The conformance test, aim to ensure that the candidate component communicates according to what is specified in the rules. Interoperability tests aim to demonstrate that the candidate component behaves as expected when integrated with other components. 
