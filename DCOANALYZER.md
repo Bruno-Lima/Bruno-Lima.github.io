@@ -26,5 +26,5 @@ You can find some sequence diagram models ready to analyze <a href="../DCOAnalyz
 
 ### Video
 
-[![Watch the video](https://img.youtube.com/vi/v7ycNzAlO_8/maxresdefault.jpg)](https://youtu.be/v7ycNzAlO_8)
+[![Watch the video](https://img.youtube.com/vi/LVIusK36_bs/maxresdefault.jpg)](https://youtu.be/LVIusK36_bs)
 
