@@ -28,6 +28,5 @@ You can find some sequence diagram models ready to analyze <a href="../DCOAnalyz
 
 [![Watch the video](https://brunolima.info/DCOAnalyzer/DCO_Analyzer-Logo_Black.png)](https://youtu.be/LVIusK36_bs)
 
-[![Watch the video](https://img.youtube.com/vi/LVIusK36_bs/maxresdefault.jpg)](https://youtu.be/LVIusK36_bs)
 
 
