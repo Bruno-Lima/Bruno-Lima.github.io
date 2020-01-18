@@ -100,6 +100,13 @@ Average grade: 19 out of 20
 
 <br/>
 
+
+### Pedagogical formations
+
+* Motivation in higher education - what drives the wheel: Module I - Motivation in students
+
+* Workshop on the U.Porto Peer Mentoring Program
+
 ### Conferences
 
 
