@@ -24,11 +24,20 @@ image:
 
 ### Professional Experience
 
-* February 2018 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399884). 
+* September 2019 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436427). 
 
 * August 2015 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
+
+* February 2019 - August 2019 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419989). 
+
+* September 2018 - February 2019 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419985). 
+
+* February 2018 - August 2018 <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399884). 
 
 * September 2017 - February 2018 <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399880). 
@@ -77,21 +86,40 @@ Average grade: 19 out of 20
 
 <br/>
 
+
+### Awards
+
+
+* Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2020
+
+* Best Paper Award at the The Eleventh International Conference on Advances in System Testing and Validation Lifecycle (VALID 2019), Valencia, Spain, 2019
+
+* ``Prémio Escolar Municipal'', in 2008, awarded by mayor of Vila do Conde to the student with the best grade average in 2006/2007 from each of the schools in the municipality.
+
+
+
+<br/>
+
 ### Conferences
 
-* 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
-* 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
 
-* The Eleventh International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2019)](http://www.iaria.org/conferences2019/VALID19.html) [PC Member]
-
-* The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
 
 * The Sixth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2020)](https://www.iaria.org/conferences2020/SOFTENG20.html) [PC Member]
 
 * IEEE 13th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2020)](https://www.icst2020.info/home/icst-2020) [Local Organization Chair]
 
+* 12th Symposium on Search-Based Software Engineering [(SSBSE 2020)](http://ssbse2020.di.uniba.it/) [Publication Chair]
+
 ##### Previous Events
+
+* The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
+
+* The Eleventh International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2019)](http://www.iaria.org/conferences2019/VALID19.html) [PC Member]
+
+* 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
+
+* 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
 * IEEE 12th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2019)](http://icst2019.xjtu.edu.cn/) [Author]
 
