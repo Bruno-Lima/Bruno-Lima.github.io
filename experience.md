@@ -103,6 +103,8 @@ Average grade: 19 out of 20
 
 ### Pedagogical formations
 
+* The New Role of the Educator: Best Practices in Online Education
+
 * Motivation in higher education - what drives the wheel: Module I - Motivation in students
 
 * Workshop on the U.Porto Peer Mentoring Program
