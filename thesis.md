@@ -15,15 +15,15 @@ image:
 </div> 
 </section><!-- /#table-of-contents -->
 
-### PHD Thesis
+# PHD Thesis
 
-#  Documents
+<b>Documents</b>Documents
 <a href="../thesis/BRUNO_LIMA_PHD_RESUMO_PT.pdf"><i class="icon-pdf"></i> - Resumo </a> <br/>
 <a href="../thesis/BRUNO_LIMA_PHD_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>
 
 
 
-# Abstract
+### Abstract
 
 To be published.
 
