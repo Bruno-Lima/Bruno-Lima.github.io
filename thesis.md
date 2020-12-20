@@ -21,10 +21,11 @@ image:
 <a href="../thesis/BRUNO_LIMA_PHD_RESUMO_PT.pdf"><i class="icon-pdf"></i> - Resumo </a> <br/>
 <a href="../thesis/BRUNO_LIMA_PHD_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>
 
-
+<br/><br/>
 <b>Abstract</b><br/><br/>
 To be published.
 
+<br/><br/>
 <b>Resumo</b><br/><br/>
 To be published.
 
@@ -34,7 +35,7 @@ To be published.
 <a href="../thesis/BRUNO_LIMA_RESUMO_PT.pdf"><i class="icon-pdf"></i> - Resumo </a> <br/>
 <a href="../thesis/BRUNO_LIMA_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>
 
-
+<br/><br/>
 <b>Abstract</b><br/><br/>
 
 Due to the aging of the world population it is urgent that traditional health systems find solutions to increase the people lifetime in their preferred environment by increasing their autonomy, self-confidence and mobility. It is precisely in this context that fits the AAL4AAL project that, through the development of an ecosystem of products and standardized and interoperable services of Ambient Assisted Living (AAL), aims to be an answer to this problem.
@@ -42,6 +43,7 @@ Due to the aging of the world population it is urgent that traditional health sy
 Inserted in the AAL4ALL project arises this dissertation project, which aimed to define a methodology for testing and certification components of AAL. The proposed methodology is based on a process composed of three different phases: analysis of prerequisites, conformance testing and interoperability testing. The prerequisites are intended to ensure that the candidates components have evidences that are necessary to enter the ecosystem. The conformance test, aim to ensure that the candidate component communicates according to what is specified in the rules. Interoperability tests aim to demonstrate that the candidate component behaves as expected when integrated with other components. 
 The proposed methodology was validated in a pilot scenario, composed of components of AAL4ALL project, for which test cases were defined. Was also set up an automatic testing platform, which allowed not only automate some of these tests but also optimize the testing and certification process.
 
+<br/><br/>
 <b>Resumo</b><br/><br/>
 
 <p>Devido ao envelhecimento da população mundial é urgente que os sistemas tradicionais de saúde encontrem soluções que permitam aumentar o tempo de vida das pessoas no seu ambiente preferido, aumentando a sua autonomia, autoconfiança e mobilidade. É precisamente neste contexto que se insere o projeto AAL4AAL que, através do desenvolvimento de um ecossistema de produtos e serviços normalizados e interoperáveis de Ambient Assisted Living (AAL), pretende ser uma resposta para este problema.</p>
