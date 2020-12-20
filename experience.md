@@ -24,42 +24,21 @@ image:
 
 ### Professional Experience
 
-* September 2019 - ... <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436427). 
 
-* August 2015 - ... <br/>
-[INESC TEC](http://www.inescporto.pt/) Researcher Assistant. 
+* November 2020 - ... <br/>
+[INESC TEC](http://www.inescporto.pt/) Researcher Assistant in SH4ALL Project
 
-* February 2019 - August 2019 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419989). 
+* September 2015 - ... <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
 
-* September 2018 - February 2019 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=419985). 
-
-* February 2018 - August 2018 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399884). 
-
-* September 2017 - February 2018 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399880). 
-
-
-* February 2017 - August 2017 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384929). 
-
-* September 2016 - February 2017 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=384925). 
-
-* February 2016 - August 2016 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368695). 
-
-* September 2015 - February 2016 <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Lecturer - [Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691). 
+* August 2015 - December 2018 <br/>
+[FEUP](http://www.fe.up.pt/) Researcher Assistant in NANOSTIMA project. 
 
 * March 2015 - July 2015 <br/>
-[FEUP](http://www.fe.up.pt/) Researcher Assistant in SIBILA project - Scenario based testing. 
+[FEUP](http://www.fe.up.pt/) Researcher Assistant in SIBILA project. 
 
 * September 2013 - February 2015 <br/>
-[INESC TEC](http://www.inescporto.pt/) Researcher Assistant in  [AAL4ALL](http://www.aal4all.org) project - Definition of a testing and certification methodology for the AAL4ALL products and services. 
+[INESC TEC](http://www.inescporto.pt/) Researcher Assistant in  [AAL4ALL](http://www.aal4all.org) project. 
 
 * July 2012 - September 2012 <br/>
 [NDrive](http://www.ndrive.com) Internship as Software Development - Improved the [NLife extension](https://chrome.google.com/webstore/detail/nlife/iokmohhpmkdchcmibndkndcpbdlkocon) (is co-author) and worked in a [new social website](http://nlife.ndrive.com) they will launch soon.
@@ -89,6 +68,7 @@ Average grade: 19 out of 20
 
 ### Awards
 
+* Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2021
 
 * Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2020
 
@@ -103,24 +83,23 @@ Average grade: 19 out of 20
 
 ### Pedagogical formations
 
-* The New Role of the Educator: Best Practices in Online Education
+* The New Role of the Educator: Best Practices in Online Education, May 2020
 
-* Motivation in higher education - what drives the wheel: Module I - Motivation in students
+* Workshop on the U.Porto Peer Mentoring Program, July 2019
 
-* Workshop on the U.Porto Peer Mentoring Program
-
-### Conferences
+* Motivation in higher education - what drives the wheel: Module I - Motivation in students, September 2018
 
 
+### Events
 
-
-* The Sixth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2020)](https://www.iaria.org/conferences2020/SOFTENG20.html) [PC Member]
-
-* IEEE 13th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2020)](https://www.icst2020.info/home/icst-2020) [Local Organization Chair]
 
 * 12th Symposium on Search-Based Software Engineering [(SSBSE 2020)](http://ssbse2020.di.uniba.it/) [Publication Chair]
 
-##### Previous Events
+* IEEE 13th International Conference on Software Testing, Verification and Validation 2020 [(ICST 2020)](https://www.icst2020.info/home/icst-2020) [Local Organization Chair]
+
+* The 20th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs120.techconf.org/) [Publicity and Social Media Co-Chair]
+
+* The Sixth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2020)](https://www.iaria.org/conferences2020/SOFTENG20.html) [PC Member]
 
 * The Fifth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2019)](http://www.iaria.org/conferences2019/FASSI19.html) [PC Member]
 
@@ -128,25 +107,17 @@ Average grade: 19 out of 20
 
 * 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
 
-* 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
-
-* IEEE 12th International Conference on Software Testing, Verification and Validation 2019 [(ICST 2019)](http://icst2019.xjtu.edu.cn/) [Author]
+* The 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
 
 * The Fifth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2019)](https://www.iaria.org/conferences2019/ComSOFTENG19.html) [PC Member]
 
 * The 46th ACM SIGPLAN Symposium on Principles of Programming Languages [(POPL 2019)](https://popl19.sigplan.org/) [Student Volunteer]
 
-* The second annual Facebook TAV Symposium [(Facebook TAV 2018)](https://research.fb.com/testing-and-verification-symposium-2018/)
-
-* The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE 2018)](https://2018.fseconference.org/home) [Author / Student Volunteer]
+* The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE 2018)](https://2018.fseconference.org/home) [Student Volunteer]
 
 * The Tenth International Conference on Advances in System Testing and Validation Lifecycle [(VALID 2018)](http://www.iaria.org/conferences2018/RegistrationVALID18.html) [PC Member]
 
 * The Fourth International Conference on Fundamentals and Advances in Software Systems Integration [(FASSI 2018)](https://www.iaria.org/conferences2018/ComFASSI18.html) [PC Member]
-
-* 6th User Conference on Advanced Automated Testing [(UCAAT 2018)](https://ucaat.etsi.org/)
-
-* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2018)](http://healthcom2018.ieee-healthcom.org/) [Author]
 
 * 18th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2018)](http://paris.utdallas.edu/qrs18/index.html) [Local Organizing Co-Chair]
 
@@ -154,51 +125,17 @@ Average grade: 19 out of 20
 
 * First International Workshop on Verification and Validation of Internet of Things [(VVIoT 2018)](https://web.fe.up.pt/~vviot2018/) [PC Member / Webmaster]
 
-* 6th International Conference on Model-Driven Engineering and Software Development [(MODELSWARD 2018)](http://www.modelsward.org/?y=2018) [Author]
-
 * Web Summit 2017 [(Web Summit 2017)](https://websummit.com/) [Student Volunteer - Team Leader]
 
-* 5th User Conference on Advanced Automated Testing [(UCAAT 2017)](https://ucaat.etsi.org/)
-
-* 12th International Joint conference on Software Technologies [(ICSOFT 2017)](http://www.icsoft.org/?y=2017) [Author]
-
-* IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) [Student Volunteer / Session Chair / Author]
-
-* TESTING Portugal 2016 [(link)](http://www.pstqb.pt/testing-portugal-2016)
-
-* ACM SIGSOFT International Symposium on the Foundations of Software Engineering [(FSE 2016)](http://www.cs.ucdavis.edu/fse2016/) [Author]
-
-* 4th User Conference on Advanced Automated Testing [(UCAAT 2016)](https://ucaat.etsi.org/2016/)
-
-* 10th International Conference on the Quality of Information and Communications Technology 2016 [(QUATIC 2016)](http://2016.quatic.org/) [Author]
-
-* 11th International Joint conference on Software Technologies [(ICSOFT 2016)](http://www.icsoft.org/?y=2016) [Author]
-
-* IEEE 9th International Conference on Software Testing, Verification and Validation 2016 [(ICST 2016)](https://www.cs.uic.edu/~icst2016/) [Author]
+* IEEE 10th International Conference on Software Testing, Verification and Validation 2017 [(ICST 2017)](http://www.aster.or.jp/conference/icst2017/) [Student Volunteer / Session Chair]
 
 * 11th Doctoral Symposium in Informatics Engineering [(DSIE16)](https://web.fe.up.pt/~prodei/dsie16/) [Co-Chair]
 
-* TESTING Portugal 2015 [(link)](http://www.cvent.com/events/testing-portugal-2015/event-summary-a1a41d7f08674008b58e43454bb9f54a.aspx)
+* Talk a Bit 2013 [Co-founder / Organizing Chair]
 
-* 3rt User Conference on Advanced Automated Testing [(UCAAT 2015)](http://ucaat.etsi.org/2015/index.html)
-
-* 10th International Joint conference on Software Technologies [(ICSOFT 2015)](http://www.icsoft.org/Home.aspx?y=2015/) [Author]
-
-* IEEE International Conference on e-Health Networking, Application & Services [(IEEE Healthcom 2013)](http://www.ieee-healthcom.org/2013/) [Author]
 
 <br/>
 
-### Summer schools
-
-* CPS Summer School [(CPS SS 2017)](http://projects.au.dk/into-cps/dissemination/summerschool/)
-
-* 13th International Summer School on Training And Research On Testing [(TAROT 2017)](http://tarot2017.dieti.unina.it/)
-
-* 12th International Summer School on Training And Research On Testing [(TAROT 2016)](https://tarot2016.wp.telecom-sudparis.eu/)
-
-* 10th International Summer School on Training And Research On Testing [(TAROT 2014)](http://tarot2014.fe.up.pt/)
-
-<br/>
 
 ### Complementary Formations
 
