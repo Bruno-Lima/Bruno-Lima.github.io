@@ -19,10 +19,11 @@ image:
 
 I have had / am having the privilege of co-supervising the following students:
 
+* Ana Sousa (MSc) -- Prototyping of a Dynamic Triage System for Hospital Emergencies (October 2020)
 * Hugo Cunha (MSc) -- Low-Code Solution for IoT Testing (July 2019)
 * Pedro Pontes (MSc) --  A Pattern-based Testing Framework for IoT Ecosystems  (July 2018) 
-* João Soares (MSc) --  Automatic Model Transformation from UML Sequence Diagrams to Coloured Petri Nets, July 2017 
-* José Cardoso (MSc) --  Automatic Assesment of Programming Assignments for E-learning, July 2017 
-* Tiago Coelho (MSc) --  Automation of mobile application testing without programming, July 2016 
+* João Soares (MSc) --  Automatic Model Transformation from UML Sequence Diagrams to Coloured Petri Nets (July 2017) 
+* José Cardoso (MSc) --  Automatic Assesment of Programming Assignments for E-learning (July 2017) 
+* Tiago Coelho (MSc) --  Automation of mobile application testing without programming (July 2016) 
 
 
