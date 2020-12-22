@@ -26,19 +26,19 @@ image:
 
 
 * November 2020 - ... <br/>
-[INESC TEC](http://www.inescporto.pt/) Researcher Assistant in SH4ALL Project
+[INESC TEC](http://www.inescporto.pt/) Research Assistant in SH4ALL Project
 
 * September 2015 - ... <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
 
 * August 2015 - December 2018 <br/>
-[FEUP](http://www.fe.up.pt/) Researcher Assistant in NANOSTIMA project. 
+[FEUP](http://www.fe.up.pt/) Research Assistant in NANOSTIMA project. 
 
 * March 2015 - July 2015 <br/>
-[FEUP](http://www.fe.up.pt/) Researcher Assistant in SIBILA project. 
+[FEUP](http://www.fe.up.pt/) Research Assistant in SIBILA project. 
 
 * September 2013 - February 2015 <br/>
-[INESC TEC](http://www.inescporto.pt/) Researcher Assistant in  [AAL4ALL](http://www.aal4all.org) project. 
+[INESC TEC](http://www.inescporto.pt/) Research Assistant in  [AAL4ALL](http://www.aal4all.org) project. 
 
 * July 2012 - September 2012 <br/>
 [NDrive](http://www.ndrive.com) Internship as Software Development - Improved the [NLife extension](https://chrome.google.com/webstore/detail/nlife/iokmohhpmkdchcmibndkndcpbdlkocon) (is co-author) and worked in a [new social website](http://nlife.ndrive.com) they will launch soon.
