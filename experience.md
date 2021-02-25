@@ -51,7 +51,7 @@ image:
 
 ### Education
 
-* Faculty of Engineering of the University of Porto (FEUP), Jan 2015 - ... <br/>
+* Faculty of Engineering of the University of Porto (FEUP), Jan 2015 - Feb 2021 <br/>
 [Doctoral Program in Informatics Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=679&pv_ano_lectivo=2015&pv_origem=CUR) 
 
 * Faculty of Engineering of the University of Porto (FEUP), Sep 2008 - Feb 2014 <br/>
