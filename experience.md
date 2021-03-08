@@ -28,7 +28,10 @@ image:
 * November 2020 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Research Assistant in SH4ALL Project
 
-* September 2015 - ... <br/>
+* February 2021 - ...  <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
+
+* September 2015 - February 2021 <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
 
 * August 2015 - December 2018 <br/>
