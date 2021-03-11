@@ -18,8 +18,8 @@ image:
 # PHD Thesis
 
 <b>Documents</b><br/><br/>
-<a href="../thesis/BRUNO_LIMA_PHD_RESUMO_PT.pdf"><i class="icon-pdf"></i> - Resumo </a> <br/>
-<a href="../thesis/BRUNO_LIMA_PHD_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>
+<a href="https://hdl.handle.net/10216/132549"><i class="icon-pdf"></i> - Observability and Controllability in Scenario-based Integration Testing of Time-Constrained Distributed Systems </a> <br/>
+<!--<a href="../thesis/BRUNO_LIMA_PHD_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>-->
 
 <br/><br/>
 <b>Abstract</b><br/><br/>
@@ -49,8 +49,8 @@ A ferramenta DCO Analyzer foi validada em um estudo de caso industrial, mostrand
 # Master's Thesis
 
 <b>Documents</b><br/><br/>
-<a href="../thesis/BRUNO_LIMA_RESUMO_PT.pdf"><i class="icon-pdf"></i> - Resumo </a> <br/>
-<a href="../thesis/BRUNO_LIMA_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>
+<a href="https://hdl.handle.net/10216/89456"><i class="icon-pdf"></i> - Teste e Certificação de Componentes para Ecossistema de Ambient Assisted Living </a> <br/>
+<!--<a href="../thesis/BRUNO_LIMA_RESUMO_EN.pdf"><i class="icon-pdf"></i> - Abstract </a> <br/>-->
 
 <br/><br/>
 <b>Abstract</b><br/><br/>
