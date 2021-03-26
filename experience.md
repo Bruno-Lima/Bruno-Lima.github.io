@@ -97,12 +97,17 @@ Average grade: 19 out of 20
 
 ### Events
 
+* The 21st IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2021)](https://qrs21.techconf.org/) [Publicity and Social Media Co-Chair]
+
+* 13th Symposium on Search-Based Software Engineering [(SSBSE 2021)](https://conf.researchr.org/home/ssbse-2021) [NIER Co-Chair]
+
+* The ACM SIGSOFT International Symposium on Software Testing and Analysis [(ISSTA 2021)](https://conf.researchr.org/home/issta-2021) [Artifact Evaluation PC Member]
 
 * 12th Symposium on Search-Based Software Engineering [(SSBSE 2020)](http://ssbse2020.di.uniba.it/) [Publication Chair]
 
 * IEEE 13th International Conference on Software Testing, Verification and Validation 2020 [(ICST 2020)](https://www.icst2020.info/home/icst-2020) [Local Organization Chair]
 
-* The 20th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs120.techconf.org/) [Publicity and Social Media Co-Chair]
+* The 20th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2020)](https://qrs120.techconf.org/) [Publicity and Social Media Co-Chair, and PC Member]
 
 * The Sixth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2020)](https://www.iaria.org/conferences2020/SOFTENG20.html) [PC Member]
 
@@ -112,7 +117,7 @@ Average grade: 19 out of 20
 
 * 11th Symposium on Search-Based Software Engineering [(SSBSE 2019)](http://ssbse19.mines-albi.fr/) [Publication Chair]
 
-* The 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair]
+* The 19th IEEE International Conference on Software Quality, Security, and Reliability [(QRS 2019)](https://qrs19.techconf.org/) [Social Media Chair and PC Member]
 
 * The Fifth International Conference on Advances and Trends in Software Engineering [(SOFTENG 2019)](https://www.iaria.org/conferences2019/ComSOFTENG19.html) [PC Member]
 
