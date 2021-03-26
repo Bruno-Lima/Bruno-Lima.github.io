@@ -86,6 +86,8 @@ Average grade: 19 out of 20
 
 ### Pedagogical formations
 
+* Workshop on Challenges of U.Porto Mentoring in Pandemic Times, February 2021
+
 * The New Role of the Educator: Best Practices in Online Education, May 2020
 
 * Workshop on the U.Porto Peer Mentoring Program, July 2019
