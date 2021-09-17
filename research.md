@@ -6,6 +6,23 @@ image:
   feature: black_bar.jpg
 ---
 
+### SmartHealth4all - Smart medical technologies for better health and care (SH4All)
+
+The SmartHealth4all project - Smart medical technologies for better health and care (SH4All), mobilized by Health Cluster Portugal (HCP) and led by Siemens Healthineers, started in November 2020, being financed by Portugal 2020.
+
+The consortium brings together more than 30 institutions and its main objectives are to develop innovative products and services in the area of digital health and medical technologies, aiming to improve the lives of people affected by chronic diseases and others related to the aging of the population.
+
+SH4All crosses different areas of knowledge, from medical and health sciences to engineering; as well as high-tech sectors such as nanotechnologies; and traditional ones, such as textiles, footwear, plastics and furniture.
+As it is a mobilizing project, it is structured in subprojects (PPS) that aim to create new products, processes or services (PPS). All of them will be monitored by a scientific, legal and regulatory commission composed of HCP, CEIC, DGS, Infarmed, INPI and SPMS.
+
+There are six subprojects that will develop the solutions to be presented to the market:
+PPS 1 | Development and Testing Platform
+PPS 2 | Personal Health Devices
+PPS 3 | Mobile Health Apps
+PPS 4 | Home Health Devices
+PPS 5 | Medication Management Devices 
+PPS 6 | Project Coordination, Promotion, Dissemination and Exploration of Results 
+
 
 ### NanoSTIMA – Macro-to-Nano Human Sensing: Towards Integrated Multimodal Health Monitoring and Analytics
 
