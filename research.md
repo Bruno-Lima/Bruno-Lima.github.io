@@ -16,12 +16,12 @@ SH4All crosses different areas of knowledge, from medical and health sciences to
 As it is a mobilizing project, it is structured in subprojects (PPS) that aim to create new products, processes or services (PPS). All of them will be monitored by a scientific, legal and regulatory commission composed of HCP, CEIC, DGS, Infarmed, INPI and SPMS.
 
 There are six subprojects that will develop the solutions to be presented to the market:
-PPS 1 | Development and Testing Platform
-PPS 2 | Personal Health Devices
-PPS 3 | Mobile Health Apps
-PPS 4 | Home Health Devices
-PPS 5 | Medication Management Devices 
-PPS 6 | Project Coordination, Promotion, Dissemination and Exploration of Results 
+- PPS 1 | Development and Testing Platform
+- PPS 2 | Personal Health Devices
+- PPS 3 | Mobile Health Apps
+- PPS 4 | Home Health Devices
+- PPS 5 | Medication Management Devices 
+- PPS 6 | Project Coordination, Promotion, Dissemination and Exploration of Results 
 
 
 ### NanoSTIMA – Macro-to-Nano Human Sensing: Towards Integrated Multimodal Health Monitoring and Analytics
