@@ -28,8 +28,17 @@ image:
 * November 2020 - ... <br/>
 [INESC TEC](http://www.inescporto.pt/) Research Assistant in SH4ALL Project
 
-* February 2021 - ...  <br/>
-[FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
+
+* September 2022 - August 2022  <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Software Design and Testing Laboratory](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501676) <br/> 2nd Semester - [Capstone Project](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501692) and [Project Management Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501936)
+
+
+* September 2022 - August 2022  <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Software Design and Testing Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484407) <br/> [2nd Semester - Software Engineering](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484425). 
+
+
+* February 2021 - August 2021  <br/>
+[FEUP](http://www.fe.up.pt/) Assistant Professor - [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
 
 * September 2015 - February 2021 <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Lecturer - [1st Semester - Computer Architecture and Organization](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=368691) <br/> [2nd Semester - Microprocessors and Personal Computers](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459469). 
