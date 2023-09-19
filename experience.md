@@ -25,15 +25,14 @@ image:
 ### Professional Experience
 
 
-* November 2020 - ... <br/>
-[INESC TEC](http://www.inescporto.pt/) Research Assistant in SH4ALL Project
-
-
 * September 2023 - ...  <br/>
 [UMaia](http://www.umaia.pt/) Assistant Professor - 1st Semester - Computer Architecture and Object Oriented Programming
 
 * September 2023 - ...  <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Software Design and Testing Laboratory](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501676)
+
+* November 2020 - July 2023 <br/>
+[INESC TEC](http://www.inescporto.pt/) Research Assistant in SH4ALL Project
 
 * September 2022 - August 2023  <br/>
 [FEUP](http://www.fe.up.pt/) Assistant Professor - [1st Semester - Software Design and Testing Laboratory](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501676) <br/> 2nd Semester - [Capstone Project](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501692) and [Project Management Laboratory](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501936)
