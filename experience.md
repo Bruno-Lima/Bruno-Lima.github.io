@@ -85,6 +85,10 @@ Average grade: 19 out of 20
 
 ### Awards
 
+* Eng. António de Almeida Foundation Award for the best doctoral dissertation among the Doctoral Program in Electrical and Computer Engineering, Telecommunications Engineering, Informatics Engineering, and Physics Engineering, defended in the calendar year 2021 at FEUP, May 2023
+
+* Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2022
+
 * Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2021
 
 * Faculty of Engineering of the University of Porto’s Pedagogical Merit Award, January 2020
