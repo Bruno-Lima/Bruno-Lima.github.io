@@ -26,7 +26,7 @@ const PROFILE = {
   linkedin: "https://www.linkedin.com/in/username/",
   orcid: "https://orcid.org/0000-0000-0000-0000",
   cv_url: "#", // link a PDF CV here
-  headshot: "/bruno.jpg", // optional: link to an image URL
+  headshot: import.meta.env.BASE_URL + "images/bruno.jpg", // optional: link to an image URL
   interests: [
     "Software Testing",
     "Requirements Engineering",
