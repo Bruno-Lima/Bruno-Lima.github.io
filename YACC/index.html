@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YACC | FEUP team at the Bosch Future Mobility Challenge</title>
+  <meta name="description" content="YACC is a FEUP student team that builds a 1:10 scale autonomous car for the Bosch Future Mobility Challenge. 6th place in the 2026 final and best newcomer team.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231F262E'/%3E%3Cpath d='M16 3v4M16 12v4M16 21v4M16 29v1' stroke='%23F2C200' stroke-width='2.5'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=Source+Sans+3:wght@400;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+
+  <header class="top">
+    <a class="mark" href="#top" aria-label="YACC, back to top">YACC</a>
+    <nav aria-label="Main">
+      <a href="#about">About</a>
+      <a href="#bfmc">BFMC</a>
+      <a href="#car">Car</a>
+      <a href="#team">Team</a>
+      <a href="#sponsors">Sponsors</a>
+      <a href="#join">Join us</a>
+    </nav>
+  </header>
+
+  <main id="content">
+    <section class="hero" id="top">
+      <div class="hero-in">
+        <h1>YACC</h1>
+        <p class="lead">A FEUP student team building a 1:10 scale autonomous car for the Bosch Future Mobility Challenge.</p>
+      </div>
+      <div class="road" aria-hidden="true">
+        <div class="car">
+          <svg viewBox="0 0 120 60" width="120" height="60" focusable="false">
+            <rect x="6" y="6" width="22" height="10" rx="3" fill="#14181D"/>
+            <rect x="6" y="44" width="22" height="10" rx="3" fill="#14181D"/>
+            <rect x="82" y="6" width="22" height="10" rx="3" fill="#14181D"/>
+            <rect x="82" y="44" width="22" height="10" rx="3" fill="#14181D"/>
+            <rect x="2" y="12" width="112" height="36" rx="12" fill="#17539B"/>
+            <rect x="70" y="17" width="22" height="26" rx="5" fill="#BBD3EE"/>
+            <rect x="30" y="17" width="34" height="26" rx="5" fill="#0F3A70"/>
+            <rect x="106" y="16" width="8" height="8" rx="2" fill="#F2C200"/>
+            <rect x="106" y="36" width="8" height="8" rx="2" fill="#F2C200"/>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="block">
+      <h2>Students, a car and a miniature city</h2>
+      <div class="prose">
+        <p>YACC brings together students who develop, test and tune a 1:10 scale autonomous vehicle. The car has to drive through a miniature city on its own, following the signs and reacting to whatever it meets on the way.</p>
+        <p>The project is mentored by two lecturers from the Department of Informatics Engineering (DEI) at the Faculty of Engineering of the University of Porto (FEUP). It is built to last: the team wants to compete every year and hand what it learns to the people who come next.</p>
+      </div>
+    </section>
+
+    <section id="bfmc" class="block">
+      <h2>BFMC 2026: our first time</h2>
+      <div class="bfmc-grid">
+        <div class="sign" role="img" aria-label="6th place in the BFMC 2026 final and best newcomer team">
+          <span class="sign-n" aria-hidden="true">6th</span>
+          <span class="sign-t" aria-hidden="true">place in the final</span>
+          <span class="sign-b" aria-hidden="true">Best newcomer team</span>
+        </div>
+        <div class="prose">
+          <p>We took part in the Bosch Future Mobility Challenge for the first time in 2026. We reached the final, finished 6th and were the best team among the newcomers.</p>
+          <p>BFMC is an international competition run by the Bosch Engineering Center Cluj, in Romania. University teams develop autonomous driving and connectivity algorithms for 1:10 scale vehicles that drive in a miniature city.</p>
+          <p><a href="https://boschfuturemobility.com/" rel="noopener">Learn more about BFMC</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section id="car" class="block">
+      <h2>Our car</h2>
+      <div class="prose">
+        <p>The car changes from one competition to the next. Here you can follow how it evolves over the years.</p>
+      </div>
+
+      <!-- Para trocar a imagem: guarda a foto em cars/ com o nome indicado no src (por exemplo cars/bfmc-2026.jpg).
+           Enquanto o ficheiro não existir, aparece um desenho provisório do carro.
+           Para acrescentar um carro novo: copia um <li> inteiro e cola-o ANTES do primeiro (o mais recente fica no topo),
+           depois muda o título, a legenda e o nome do ficheiro da imagem. -->
+      <ul class="cars">
+        <!-- Quando o carro de 2027 estiver pronto: troca este <li> por um cartão igual ao de BFMC 2026
+             (com <figure class="shot"> e a imagem em cars/), ou apaga-o. -->
+        <li class="upcoming">
+          <div class="shot upcoming-shot" aria-hidden="true">
+            <span class="upcoming-label">In preparation</span>
+          </div>
+          <h3 class="car-title">BFMC 2027</h3>
+          <p class="car-note">We are preparing the next version of the car.</p>
+        </li>
+        <li>
+          <figure class="shot">
+            <svg class="shot-art" viewBox="0 0 240 150" aria-hidden="true" focusable="false">
+              <rect width="240" height="150" fill="#2E3742"/>
+              <path d="M0 75H240" stroke="#F2C200" stroke-width="3" stroke-dasharray="22 22"/>
+              <g transform="translate(60 45)">
+                <rect x="6" y="6" width="22" height="10" rx="3" fill="#14181D"/>
+                <rect x="6" y="44" width="22" height="10" rx="3" fill="#14181D"/>
+                <rect x="82" y="6" width="22" height="10" rx="3" fill="#14181D"/>
+                <rect x="82" y="44" width="22" height="10" rx="3" fill="#14181D"/>
+                <rect x="2" y="12" width="112" height="36" rx="12" fill="#17539B"/>
+                <rect x="70" y="17" width="22" height="26" rx="5" fill="#BBD3EE"/>
+                <rect x="30" y="17" width="34" height="26" rx="5" fill="#0F3A70"/>
+                <rect x="106" y="16" width="8" height="8" rx="2" fill="#F2C200"/>
+                <rect x="106" y="36" width="8" height="8" rx="2" fill="#F2C200"/>
+              </g>
+            </svg>
+            <img src="cars/bfmc-2026.jpg" alt="The YACC car at BFMC 2026" width="1200" height="750">
+          </figure>
+          <h3 class="car-title">BFMC 2026</h3>
+          <p class="car-note">Our first car. 6th place in the final.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="team" class="block">
+      <h2>Who we are</h2>
+      <div class="prose">
+        <p>People who leave the team become advisors and keep supporting those who stay. New members join every year to work alongside people who already know the car.</p>
+      </div>
+
+      <!-- Para trocar uma foto: guarda a imagem em photos/ com o nome indicado no src (por exemplo photos/joana-louro.jpg).
+           Enquanto o ficheiro não existir, aparece um avatar com as iniciais.
+           Para preencher um lugar vazio ("Could be you"): copia um <li> de uma pessoa (por exemplo da secção Team),
+           cola-o no grupo certo e apaga o <li class="open"> correspondente. Grupos sem pessoas podem ser apagados. -->
+      <h3>Team</h3>
+      <ul class="people">
+        <li>
+          <figure class="avatar" data-initials="JL"><img src="photos/joana-louro.jpg" alt="Photo of Joana Louro" width="400" height="500"></figure>
+          <span class="name">Joana Louro</span>
+          <span class="role">Member</span>
+        </li>
+        <li>
+          <figure class="avatar" data-initials="LG"><img src="photos/luis-goncalves.jpg" alt="Photo of Luis Gonçalves" width="400" height="500"></figure>
+          <span class="name">Luis Gonçalves</span>
+          <span class="role">Member</span>
+        </li>
+        <li>
+          <figure class="avatar" data-initials="LS"><img src="photos/luis-santos.jpg" alt="Photo of Luis Santos" width="400" height="500"></figure>
+          <span class="name">Luis Santos</span>
+          <span class="role">Member</span>
+        </li>
+        <li>
+          <figure class="avatar" data-initials="LB"><img src="photos/leonor-bidarra.jpg" alt="Photo of Leonor Bidarra" width="400" height="500"></figure>
+          <span class="name">Leonor Bidarra</span>
+          <span class="role">Member</span>
+        </li>
+      </ul>
+
+      <h3>Junior team</h3>
+      <ul class="people">
+        <li class="open">
+          <a href="#join">
+            <span class="avatar open" data-initials="+" aria-hidden="true"></span>
+            <span class="name">Could be you</span>
+            <span class="role">Junior team</span>
+          </a>
+        </li>
+        <li class="open">
+          <a href="#join">
+            <span class="avatar open" data-initials="+" aria-hidden="true"></span>
+            <span class="name">Could be you</span>
+            <span class="role">Junior team</span>
+          </a>
+        </li>
+        <li class="open">
+          <a href="#join">
+            <span class="avatar open" data-initials="+" aria-hidden="true"></span>
+            <span class="name">Could be you</span>
+            <span class="role">Junior team</span>
+          </a>
+        </li>
+      </ul>
+
+      <h3>Marketing</h3>
+      <ul class="people">
+        <li class="open">
+          <a href="#join">
+            <span class="avatar open" data-initials="+" aria-hidden="true"></span>
+            <span class="name">Could be you</span>
+            <span class="role">Marketing</span>
+          </a>
+        </li>
+        <li class="open">
+          <a href="#join">
+            <span class="avatar open" data-initials="+" aria-hidden="true"></span>
+            <span class="name">Could be you</span>
+            <span class="role">Marketing</span>
+          </a>
+        </li>
+      </ul>
+
+      <h3>Advisors</h3>
+      <ul class="people">
+        <li>
+          <figure class="avatar" data-initials="LB"><img src="photos/luis-barboza.jpg" alt="Photo of Luis Barboza" width="400" height="500"></figure>
+          <span class="name">Luis Barboza</span>
+          <span class="role">Advisor</span>
+        </li>
+      </ul>
+
+      <h3>Mentors</h3>
+      <ul class="people">
+        <li>
+          <figure class="avatar" data-initials="BL"><img src="photos/bruno-lima.jpg" alt="Photo of Bruno Lima" width="400" height="500"></figure>
+          <span class="name"><a href="mailto:brunolima@fe.up.pt">Bruno Lima</a></span>
+          <span class="role">Assistant Professor, DEI/FEUP</span>
+        </li>
+        <li>
+          <figure class="avatar" data-initials="RC"><img src="photos/ricardo-cruz.jpg" alt="Photo of Ricardo Cruz" width="400" height="500"></figure>
+          <span class="name"><a href="mailto:rpcruz@fe.up.pt">Ricardo Cruz</a></span>
+          <span class="role">Assistant Professor, DEI/FEUP</span>
+        </li>
+      </ul>
+    </section>
+
+    <section id="sponsors" class="block">
+      <h2>Sponsors and supporters</h2>
+      <div class="prose">
+        <p>The institutions and companies that back the team.</p>
+      </div>
+
+      <!-- Para usar os logótipos: guarda-os em logos/ com o nome indicado no src. Enquanto não existirem, aparece o nome em texto. -->
+      <ul class="sponsors">
+        <li>
+          <a class="sponsor" href="https://www.up.pt/feup/en/" rel="noopener" data-label="FEUP">
+            <img src="logos/feup.png" alt="FEUP, Faculty of Engineering of the University of Porto">
+          </a>
+        </li>
+        <li>
+          <a class="sponsor" href="https://dei.fe.up.pt/" rel="noopener" data-label="DEI">
+            <img src="logos/dei.png" alt="DEI, Department of Informatics Engineering">
+          </a>
+        </li>
+        <li>
+          <a class="sponsor" href="https://www.tekever.com/" rel="noopener" data-label="TEKEVER">
+            <img src="logos/tekever.png" alt="TEKEVER">
+          </a>
+          <span class="sponsor-note">BFMC 2026 sponsor</span>
+        </li>
+      </ul>
+    </section>
+
+    <section id="join" class="block join">
+      <h2>Join YACC</h2>
+      <div class="prose">
+        <p>If you want to work on autonomous driving, robotics or embedded software, or help the team in other ways, get in touch. We look for people who want to learn and build.</p>
+        <p>Talk to the mentors, <a href="mailto:brunolima@fe.up.pt">Bruno Lima</a> or <a href="mailto:rpcruz@fe.up.pt">Ricardo Cruz</a>.</p>
+      </div>
+      <!-- O botão só aparece se definires CONFIG.email em script.js -->
+      <p><a class="btn" id="join-email" href="#" hidden>Email the team</a></p>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>YACC. Team mentored by lecturers from the Department of Informatics Engineering at FEUP.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
